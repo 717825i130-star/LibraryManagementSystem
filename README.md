@@ -21,7 +21,6 @@ The Library Management System is a Java-based mini project developed using Objec
 - Perform basic library operations supported by the program.
 - Organize the application using Java classes and methods.
 
-*Note: Update this section to match the features actually implemented in your source code.*
 
 ## Project Structure
 ```text
