@@ -50,4 +50,6 @@ LibraryManagementSystem/
 GitHub: https://github.com/717825i130-star/LibraryManagementSystem
 
 ## Author
-Developed as a Java OOP mini project.
+Name: Lakshmi Prabha S
+Course: B.Tech Artificial Intelligence and Data Science
+Register No:717825I130
